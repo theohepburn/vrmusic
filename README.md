@@ -22,6 +22,8 @@ However, unfortunately When I tried to run the code, I ran into problems. Going 
 
 ![screen shot 2018-05-10 at 21 07 09](https://user-images.githubusercontent.com/37668168/39891721-3fb70af2-5496-11e8-9a52-63ddf26c8829.png)
 
+Unfortunately, I was not able to get the code to work as a packaged file online like the WebVR Experiment. Although I was not able to get the code to work, this I enjoyed this assessment as it allowed me to experiment more with coding which is an aspect that it out of my comfort zone.  
+
 
 
 
