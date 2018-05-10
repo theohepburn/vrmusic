@@ -22,7 +22,7 @@ In order to make the code my own, I made a few changes to enchance it. These inc
 
 Creating a new splash screen 
 
-<img src="images/thumbnail.png">
+<img src="vrmusic/images/thumbnail.png">
 
 
 
