@@ -20,9 +20,10 @@ However, unfortunately When I tried to run the code
 
 In order to make the code my own, I made a few changes to enchance it. These included:
 
-Changing the title of the 
+Creating a new splash screen 
 
-Creating a new splash screen, 
+<img src="images/thumbnail.png">
+
 
 
 
