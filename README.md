@@ -106,3 +106,8 @@ The next step was for me to try and run webpack -p as a the superuser `sudo webp
 ![screen shot 2018-07-07 at 23 18 12](https://user-images.githubusercontent.com/37668168/42415087-1441a462-823c-11e8-879b-0b64c6bd2abf.png)
 
 Unfortunately, I was not able to get the code to work as a packaged file online like the WebVR Experiment. Although I was not able to get the code to work, this I enjoyed this assessment as it allowed me to experiment more with coding which is an aspect that it out of my comfort zone.  
+
+
+## References
+
+Gerrity, D. (2016). What is Homebrew for OS X? - Quora. [online] Quora.com. Available at: https://www.quora.com/What-is-Homebrew-for-OS-X [Accessed 5 Jul. 2018].
