@@ -101,7 +101,7 @@ So, I ran the same code again this time as a 'superuser' `sudo npm install` whic
 
 ![screen shot 2018-07-07 at 23 15 54](https://user-images.githubusercontent.com/37668168/42415076-be95c5ac-823b-11e8-879f-f63fa9984d7d.png)
 
-The next step was for me to try and run webpack -p as a the superuser `sudo webpack -p` but, this was unsuccessful. With this project being outside of my comfort zone, I searched Google and spoke to Matt Bellingham neither of which could find a solution to this problem. Matt suggested that it may be a problem with Mac OSX so, he was going to try and run the code on Linux to see if that would work.
+The next step was for me to try and run webpack -p as a the superuser `sudo webpack -p` but, this was unsuccessful. With this project being outside of my comfort zone, I searched Google and spoke to Matt Bellingham neither of which could find a solution to this problem. Matt suggested that it may be a problem with Mac OSX so, he was going to try and run the code on a Linux machine to see if that would work.
 
 ![screen shot 2018-07-07 at 23 18 12](https://user-images.githubusercontent.com/37668168/42415087-1441a462-823c-11e8-879b-0b64c6bd2abf.png)
 
